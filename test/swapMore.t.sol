@@ -199,6 +199,7 @@ contract BalancerPoc is Test {
         uint256[] memory scalingFactors = OSETH_BPT.getScalingFactors();
 
         uint256 swapFeePercentage = OSETH_BPT.getSwapFeePercentage();
+        (uint256 amp,,) = OSETH_BPT.getAmplificationParameter();
 
         uint256 targetRemainBalance = 87000;
 
@@ -211,7 +212,7 @@ contract BalancerPoc is Test {
         console.log("Actual supply:", bptActualBalances);
 
         (uint256[] memory stepBPTAmount, uint256 stepBPTLength) =
-            generateStep3Amounts(bptActualBalances * 103 / 100, 10);
+            generateStep3Amounts(bptActualBalances * 1024 / 1000, 10);
 
         int256[] memory limits = new int256[](3);
         limits[0] = int256(1809251394333065553493296640760748560207343510400633813116524750123642650624);
@@ -222,7 +223,7 @@ contract BalancerPoc is Test {
             sender: address(this), fromInternalBalance: true, recipient: payable(address(this)), toInternalBalance: true
         });
 
-        uint256 step2SwapCount = 30;
+        uint256 step2SwapCount = 40;
         IVault.BatchSwapStep[] memory swaps =
             new IVault.BatchSwapStep[](stepETHLength + stepOSETHLength + stepBPTLength + 1 + step2SwapCount * 3);
 
@@ -243,8 +244,6 @@ contract BalancerPoc is Test {
         uint256[] memory notBPTScalingFactors = new uint256[](tokens.length - 1);
         notBPTScalingFactors[0] = scalingFactors[0];
         notBPTScalingFactors[1] = scalingFactors[2];
-
-        (uint256 amp,,) = OSETH_BPT.getAmplificationParameter();
 
         // Insert Step 2 swaps
         insertStep2Swaps(
