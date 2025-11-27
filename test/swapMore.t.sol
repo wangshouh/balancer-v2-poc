@@ -52,8 +52,8 @@ contract BalancerPoc is Test {
     }
 
     function insertStep2Swaps(
-        uint256 targetIndex, // 0
-        uint256 otherIndex, // 1
+        uint256 targetIndex,
+        uint256 otherIndex,
         uint256 targetBalance,
         uint256 swapCountLimit,
         bytes32 poolId,
@@ -78,7 +78,6 @@ contract BalancerPoc is Test {
                 });
             }
             {
-                console.log("Step 2");
                 if (balances[targetIndex] != targetBalance + 1) {
                     revert("insertStep2Swaps failed");
                 }
@@ -97,7 +96,6 @@ contract BalancerPoc is Test {
             {
                 // Step3: Recover otherIndex balance
                 uint256 swapOutAmount = balances[otherIndex] * 999 / 1000;
-                // console.log("Initial swapOutAmount:", swapOutAmount);
                 // May be error, if error need adjust swapOutAmount
                 try swapMath.getAfterSwapOutBalances(
                     balances, scalingFactors, targetIndex, otherIndex, swapOutAmount, amp, swapFeePercentage
