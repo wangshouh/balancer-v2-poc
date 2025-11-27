@@ -3,6 +3,7 @@ pragma solidity 0.8.30;
 
 import {FixedPoint} from "./FixedPoint.sol";
 import {Math} from "./Math.sol";
+import {console} from "forge-std/Console.sol";
 
 library StableMath {
     using FixedPoint for uint256;
@@ -24,6 +25,9 @@ library StableMath {
         **********************************************************************************************/
 
         // Always round down, to match Vyper's arithmetic (which always truncates).
+        // for (uint256 i = 0; i < balances.length; i++) {
+        //     console.log("balance [", i, "] in _calculateInvariant", balances[i]);
+        // }
 
         uint256 sum = 0; // S in the Curve version
         uint256 numTokens = balances.length;
@@ -58,6 +62,9 @@ library StableMath {
                 (Math.divDown(Math.mul((ampTimesTotal - _AMP_PRECISION), invariant), _AMP_PRECISION)
                         + (Math.mul((numTokens + 1), D_P)))
             );
+
+            // console.log("prevInvariant in iteration ", i, " is ", prevInvariant);
+            // console.log("invariant in iteration ", i, " is ", invariant);
 
             if (invariant > prevInvariant) {
                 if (invariant - prevInvariant <= 1) {

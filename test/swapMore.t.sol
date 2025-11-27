@@ -200,10 +200,12 @@ contract BalancerPoc is Test {
 
         uint256 swapFeePercentage = OSETH_BPT.getSwapFeePercentage();
 
+        uint256 targetRemainBalance = 87000;
+
         (uint256 remainETHAmount, uint256 stepETHLength, uint256[] memory stepETHAmount) =
-            generateStep1Amounts(balances[0], swapFeePercentage, 20000, 10);
+            generateStep1Amounts(balances[0], swapFeePercentage, targetRemainBalance, 10);
         (uint256 remainOSETHAmount, uint256 stepOSETHLength, uint256[] memory stepOSETHAmount) =
-            generateStep1Amounts(balances[2], swapFeePercentage, 20000, 10);
+            generateStep1Amounts(balances[2], swapFeePercentage, targetRemainBalance, 10);
 
         uint256 bptActualBalances = OSETH_BPT.getActualSupply();
         console.log("Actual supply:", bptActualBalances);
@@ -235,8 +237,8 @@ contract BalancerPoc is Test {
         }
 
         uint256[] memory notBPTBalances = new uint256[](tokens.length - 1);
-        notBPTBalances[0] = 20001;
-        notBPTBalances[1] = 20001;
+        notBPTBalances[0] = remainETHAmount;
+        notBPTBalances[1] = remainOSETHAmount;
 
         uint256[] memory notBPTScalingFactors = new uint256[](tokens.length - 1);
         notBPTScalingFactors[0] = scalingFactors[0];
@@ -261,7 +263,7 @@ contract BalancerPoc is Test {
 
         // console.log("stepBPTLength: ", stepBPTLength);
         for (uint256 i = 0; i < stepBPTLength + 1; i++) {
-            if (i > (stepBPTLength + 1) / 2) {
+            if (i % 2 == 0) {
                 swaps[stepETHLength + stepOSETHLength + step2SwapCount * 3 + i] = IVault.BatchSwapStep({
                     poolId: poolId, assetInIndex: 0, assetOutIndex: 1, amount: stepBPTAmount[i], userData: ""
                 });
