@@ -43,9 +43,6 @@ contract SwapMath {
 
         uint256 amountInWithFee = amountIn.divUp(swapFeePercentage.complement());
 
-        // balancesIn += amountInWithFee;
-        // balancesOut -= swapOutAmount;
-
         uint256[] memory newBalances = new uint256[](balances.length);
         newBalances[indexIn] = balancesIn + amountInWithFee;
         newBalances[indexOut] = balancesOut - swapOutAmount;

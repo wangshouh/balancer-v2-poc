@@ -198,6 +198,7 @@ contract BalancerPoc is Test {
 
         uint256 swapFeePercentage = OSETH_BPT.getSwapFeePercentage();
         (uint256 amp,,) = OSETH_BPT.getAmplificationParameter();
+        uint256 bptRate = OSETH_BPT.getRate();
 
         uint256 targetRemainBalance = 87000;
 
@@ -210,7 +211,7 @@ contract BalancerPoc is Test {
         console.log("Actual supply:", bptActualBalances);
 
         (uint256[] memory stepBPTAmount, uint256 stepBPTLength) =
-            generateStep3Amounts(bptActualBalances * 1024 / 1000, 10);
+            generateStep3Amounts(bptActualBalances * bptRate / 1e18, 10);
 
         int256[] memory limits = new int256[](3);
         limits[0] = int256(1809251394333065553493296640760748560207343510400633813116524750123642650624);
