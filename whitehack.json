@@ -1,0 +1,846 @@
+{
+  "kind": 1,
+  "swaps": [
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "1",
+      "assetOutIndex": "0",
+      "amount": "1289182985197611",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "1",
+      "assetOutIndex": "0",
+      "amount": "1144",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "1",
+      "assetOutIndex": "0",
+      "amount": "1130",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "1",
+      "assetOutIndex": "0",
+      "amount": "192",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "0",
+      "assetOutIndex": "1",
+      "amount": "1082109461775586670626",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "1",
+      "assetOutIndex": "0",
+      "amount": "1144",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "1",
+      "assetOutIndex": "0",
+      "amount": "1130",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "1",
+      "assetOutIndex": "0",
+      "amount": "239",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "0",
+      "assetOutIndex": "1",
+      "amount": "1390217284700210644922",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "1",
+      "assetOutIndex": "0",
+      "amount": "1144",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "1",
+      "assetOutIndex": "0",
+      "amount": "1144",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "1",
+      "assetOutIndex": "0",
+      "amount": "232",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "0",
+      "assetOutIndex": "1",
+      "amount": "5194290012539659285624",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "1",
+      "assetOutIndex": "0",
+      "amount": "1144",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "1",
+      "assetOutIndex": "0",
+      "amount": "1144",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "1",
+      "assetOutIndex": "0",
+      "amount": "212",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "0",
+      "assetOutIndex": "1",
+      "amount": "3669328176721896650531",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "1",
+      "assetOutIndex": "0",
+      "amount": "1137",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "1",
+      "assetOutIndex": "0",
+      "amount": "1137",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "1",
+      "assetOutIndex": "0",
+      "amount": "226",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "0",
+      "assetOutIndex": "1",
+      "amount": "2592388923031147309643",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "1",
+      "assetOutIndex": "0",
+      "amount": "1144",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "1",
+      "assetOutIndex": "0",
+      "amount": "1137",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "1",
+      "assetOutIndex": "0",
+      "amount": "219",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "0",
+      "assetOutIndex": "1",
+      "amount": "1831424232632233077015",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "1",
+      "assetOutIndex": "0",
+      "amount": "1137",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "1",
+      "assetOutIndex": "0",
+      "amount": "1144",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "1",
+      "assetOutIndex": "0",
+      "amount": "219",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "0",
+      "assetOutIndex": "1",
+      "amount": "1293829379458576162176",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "1",
+      "assetOutIndex": "0",
+      "amount": "1144",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "1",
+      "assetOutIndex": "0",
+      "amount": "1144",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "1",
+      "assetOutIndex": "0",
+      "amount": "212",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "0",
+      "assetOutIndex": "1",
+      "amount": "913985213285397835944",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "1",
+      "assetOutIndex": "0",
+      "amount": "1124",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "1",
+      "assetOutIndex": "0",
+      "amount": "1130",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "1",
+      "assetOutIndex": "0",
+      "amount": "246",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "0",
+      "assetOutIndex": "1",
+      "amount": "645828923458880298707",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "1",
+      "assetOutIndex": "0",
+      "amount": "1144",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "1",
+      "assetOutIndex": "0",
+      "amount": "1144",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "1",
+      "assetOutIndex": "0",
+      "amount": "212",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "0",
+      "assetOutIndex": "1",
+      "amount": "456225974800006525773",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "1",
+      "assetOutIndex": "0",
+      "amount": "1144",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "1",
+      "assetOutIndex": "0",
+      "amount": "1137",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "1",
+      "assetOutIndex": "0",
+      "amount": "219",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "0",
+      "assetOutIndex": "1",
+      "amount": "322305739169063948209",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "1",
+      "assetOutIndex": "0",
+      "amount": "1144",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "1",
+      "assetOutIndex": "0",
+      "amount": "1144",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "1",
+      "assetOutIndex": "0",
+      "amount": "212",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "0",
+      "assetOutIndex": "1",
+      "amount": "227681935852275848396",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "1",
+      "assetOutIndex": "0",
+      "amount": "1144",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "1",
+      "assetOutIndex": "0",
+      "amount": "1144",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "1",
+      "assetOutIndex": "0",
+      "amount": "212",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "0",
+      "assetOutIndex": "1",
+      "amount": "160838310854228365695",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "1",
+      "assetOutIndex": "0",
+      "amount": "1144",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "1",
+      "assetOutIndex": "0",
+      "amount": "1144",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "1",
+      "assetOutIndex": "0",
+      "amount": "212",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "0",
+      "assetOutIndex": "1",
+      "amount": "113619190585476455566",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "1",
+      "assetOutIndex": "0",
+      "amount": "1144",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "1",
+      "assetOutIndex": "0",
+      "amount": "1144",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "1",
+      "assetOutIndex": "0",
+      "amount": "212",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "0",
+      "assetOutIndex": "1",
+      "amount": "80262452282136016012",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "1",
+      "assetOutIndex": "0",
+      "amount": "1144",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "1",
+      "assetOutIndex": "0",
+      "amount": "1137",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "1",
+      "assetOutIndex": "0",
+      "amount": "219",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "0",
+      "assetOutIndex": "1",
+      "amount": "56702430137072328026",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "1",
+      "assetOutIndex": "0",
+      "amount": "1144",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "1",
+      "assetOutIndex": "0",
+      "amount": "1144",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "1",
+      "assetOutIndex": "0",
+      "amount": "212",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "0",
+      "assetOutIndex": "1",
+      "amount": "40055714533148990575",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "1",
+      "assetOutIndex": "0",
+      "amount": "1137",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "1",
+      "assetOutIndex": "0",
+      "amount": "1130",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "1",
+      "assetOutIndex": "0",
+      "amount": "226",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "0",
+      "assetOutIndex": "1",
+      "amount": "12176018611676820311",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "1",
+      "assetOutIndex": "0",
+      "amount": "1144",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "1",
+      "assetOutIndex": "0",
+      "amount": "1144",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "1",
+      "assetOutIndex": "0",
+      "amount": "212",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "0",
+      "assetOutIndex": "1",
+      "amount": "11538430386190572193",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "1",
+      "assetOutIndex": "0",
+      "amount": "1144",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "1",
+      "assetOutIndex": "0",
+      "amount": "1144",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "1",
+      "assetOutIndex": "0",
+      "amount": "219",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "0",
+      "assetOutIndex": "1",
+      "amount": "25414930601727818221",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "1",
+      "assetOutIndex": "0",
+      "amount": "1144",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "1",
+      "assetOutIndex": "0",
+      "amount": "1130",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "1",
+      "assetOutIndex": "0",
+      "amount": "226",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "0",
+      "assetOutIndex": "1",
+      "amount": "17955868874512089228",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "1",
+      "assetOutIndex": "0",
+      "amount": "1144",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "1",
+      "assetOutIndex": "0",
+      "amount": "1137",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "1",
+      "assetOutIndex": "0",
+      "amount": "219",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "0",
+      "assetOutIndex": "1",
+      "amount": "12685312981172008696",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "1",
+      "assetOutIndex": "0",
+      "amount": "1137",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "1",
+      "assetOutIndex": "0",
+      "amount": "1144",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "1",
+      "assetOutIndex": "0",
+      "amount": "219",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "0",
+      "assetOutIndex": "1",
+      "amount": "8961668383544560104",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "1",
+      "assetOutIndex": "0",
+      "amount": "1137",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "1",
+      "assetOutIndex": "0",
+      "amount": "1130",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "1",
+      "assetOutIndex": "0",
+      "amount": "232",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "0",
+      "assetOutIndex": "1",
+      "amount": "5129251982878625928",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "1",
+      "assetOutIndex": "0",
+      "amount": "1144",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "1",
+      "assetOutIndex": "0",
+      "amount": "1144",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "1",
+      "assetOutIndex": "0",
+      "amount": "212",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "0",
+      "assetOutIndex": "1",
+      "amount": "4183353037434674590",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "1",
+      "assetOutIndex": "0",
+      "amount": "1144",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "1",
+      "assetOutIndex": "0",
+      "amount": "1137",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "1",
+      "assetOutIndex": "0",
+      "amount": "219",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "0",
+      "assetOutIndex": "1",
+      "amount": "3412106617054728937",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "1",
+      "assetOutIndex": "0",
+      "amount": "1137",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "1",
+      "assetOutIndex": "0",
+      "amount": "1144",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "1",
+      "assetOutIndex": "0",
+      "amount": "219",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "0",
+      "assetOutIndex": "1",
+      "amount": "2783026368793716299",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "1",
+      "assetOutIndex": "0",
+      "amount": "1137",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "1",
+      "assetOutIndex": "0",
+      "amount": "1144",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "1",
+      "assetOutIndex": "0",
+      "amount": "206",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "0",
+      "assetOutIndex": "1",
+      "amount": "878754319785082864",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "1",
+      "assetOutIndex": "0",
+      "amount": "1144",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "1",
+      "assetOutIndex": "0",
+      "amount": "1144",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "1",
+      "assetOutIndex": "0",
+      "amount": "226",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "0",
+      "assetOutIndex": "1",
+      "amount": "2720320115317438386",
+      "userData": "0x"
+    },
+    {
+      "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
+      "assetInIndex": "0",
+      "assetOutIndex": "1",
+      "amount": "51708935649626907",
+      "userData": "0x"
+    }
+  ],
+  "assets": [
+    "0xae78736cd615f374d3085123a210448e74fc6393",
+    "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+  ],
+  "funds": {
+    "sender": "0xa69ae25fbde8821373237f5c4cf4b980d5e3bf7e",
+    "fromInternalBalance": true,
+    "recipient": "0x10a19e7ee7d7f8a52822f6817de8ea18204f2e4f",
+    "toInternalBalance": true
+  },
+  "limits": [
+    "1000000000000000000000000",
+    "1000000000000000000000000"
+  ],
+  "deadline": "1762974113"
+}
